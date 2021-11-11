@@ -23,6 +23,9 @@ a {
   width: auto;
 }
 
+#navbarNav {
+  justify-content: right;
+}
 .navbar-brand img {
   height: 50px;
 }
@@ -140,6 +143,11 @@ a {
 .grid-elem a img {
   width: 65px;
   height: 65px;
+}
+
+#sp img {
+  height: 65px;
+  width: 50px;
 }
 
 .projects {
